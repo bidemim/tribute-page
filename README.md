@@ -1,2 +1,5 @@
-# tribute-page
-A tribute to Nigerian health workers who helped curbed the spread of the Ebola virus
+# Tribute page
+A tribute page dedicated to **Chimamanda Ngozi Adichie**
+
+## Sources
+Image obtained from [Chimamanda Ngozi Adichie's website](https://www.chimamanda.com/gallery/)
