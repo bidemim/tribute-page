@@ -8,3 +8,7 @@ html {
     max-width: 100%;
     height: auto;
 }
+
+#title, #img-caption {
+    text-align: center;
+}
