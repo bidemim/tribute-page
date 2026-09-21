@@ -1,4 +1,9 @@
 html {
     background-color: antiquewhite;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
